@@ -1,1 +1,1 @@
-2026.1.0.1|
+2026.1.0.1|https://raw.githubusercontent.com/maulanaaghnii/desktop-version-test/main/LCR600SDK.exe
